@@ -13,6 +13,7 @@ Examples:
 	|Item number | Quantity|
 	|1002 		 |	20	   |
 	|1004		 |	30	   |
+	|1003		|	10	|
 
 @AboutGMO
 Scenario: Enter About the GMO site
